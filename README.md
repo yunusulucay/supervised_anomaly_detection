@@ -7,7 +7,6 @@ Difference Between Eucledian Distance and Mahalanobis Distance Depending on Corr
 
 Depending on models' comparison winner is XGBClassifier.
 
-<<<<<<< HEAD
 **Imbalanced classification. Binary Classification. Sources.**
 
 - https://towardsdatascience.com/supervised-machine-learning-technique-for-anomaly-detection-logistic-regression-97fc7a9cacd4
@@ -33,5 +32,3 @@ Depending on models' comparison winner is XGBClassifier.
 - https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets
 
 - https://www.kaggle.com/satoshiss/titanic-binary-classification
-=======
->>>>>>> 3360aa8a397e230007cdc4e62b41239b1f1bb78e
